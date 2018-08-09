@@ -6,3 +6,6 @@
 - More types: structs, slice, and maps. ... done
 - Methods and Interfaces ... done
 - Concurrency ... done
+## round 2¥
+- Welcome! ...done
+- Packages, variables, and functions. ...done
